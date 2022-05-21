@@ -1,5 +1,7 @@
 # Jogo-da-forca-Alura-Challenge
 
+O desafio consiste em criar um jogo da forca usando os conceitos aprendidos durante o curso de Lógica de programação 1 oferecido pela Alura
+
 Os requisitos para esse Challenge foram:
 
 Requisitos:
